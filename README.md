@@ -37,3 +37,13 @@ To start the game, run the following command in your terminal:
 nodemon index.js
 ```
 Then, open your browser and navigate to http://localhost:3000 to start playing the game.
+
+## Contributing
+Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
+
+## License
+
+This project is licensed under the ISC License.
+
+## Contact
+If you have any questions or issues, please contact me at [email](mailto:andrewk.kamal@aucegypt.edu).
